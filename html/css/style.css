@@ -1,8 +1,10 @@
-h1 {
-    color:indianred;
-    text-align: left;
+.card {
+    align-items: center;
 }
-
-body {
-    background-color: #1c1f23;
+.card-title {
+    font-weight: bold;
+}
+.card img {
+    border-top-right-radius: 0;
+    border-bottom-left-radius: calc(0.25rem - 1px);
 }
