@@ -39,4 +39,4 @@ Thumbs.db
 # Folders to ignore
 /js/coverage/
 /node_modules/
-/html/media/
+/media/
